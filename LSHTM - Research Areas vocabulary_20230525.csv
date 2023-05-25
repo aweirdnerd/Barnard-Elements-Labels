@@ -1,0 +1,122 @@
+﻿Label Value,Code,Description
+Adolescent health,1125,CADO
+Ageing,1,AAGE
+Agriculture,1126,CAGR
+Alcohol,1127,CALC
+Bacteria,2,ABAC
+Bayesian Analysis,1128,CBAE
+Behaviour change,1129,CBEH
+Capacity strengthening,1130,CCAP
+Chemotherapy,1131,CCHE
+Child health,6,ACHI
+Climate change,9,ACLA
+Clinical care,10,ACLC
+Clinical databases,11,ACLD
+Clinical guidelines,12,ACLG
+Clinical trials,13,ACLT
+Complex interventions,14,ACOM
+Conflict,15,ACON
+Critical care,1132,CCRI
+Decision analysis,16,ADEA
+Diagnostics,18,ADIA
+Disease control,1133,CDIS
+Drug discovery and development,20,ADRD
+Drug resistance,21,ADRR
+Economic evaluation,22,AECO
+Education,1876,EDU
+Electronic health records,1134,CELE
+Environment,23,AENV
+Environmental Health,1135,CENV
+Equity,1136,CEQU
+Ethics,1137,CETH
+Ethnography,1138,CHNO
+Evaluation,1139,CEVA
+Evidence use,1140,CEVI
+Eye Health,,
+Fertility,1141,CFER
+Food,1142,CFOO
+Gender,1143,CGEN
+Geographic Information Systems (GIS),1144,CGEO
+Global Health,1145,CGLO
+Globalisation,27,AGLO
+Health care financing,28,AHAA
+Health care policy,29,AHAC
+Health impact analysis,30,AHAM
+Health inequalities,31,AHAN
+Health outcomes,32,AHAO
+Health policy,33,AHAP
+Health promotion,34,AHAR
+Health sector development,35,AHAS
+Health services,1146,CHEA
+Health services research,36,AHAT
+Health status measurement,37,AHAU
+Health systems,38,AHAY
+Health technology assessment,39,AHAZ
+Health workers,1147,CALT
+Helminths,40,AHEL
+Housing,1148,CHOU
+Human genetics,43,AHUM
+Hygiene,44,AHYG
+Immunisation,1149,CIMM
+Impact evaluation,1150,CIMP
+Implementation research,1151,CPLE
+Inequalities,1152,CINE
+Infectious disease policy,48,AINF
+Innate immunity,50,AINN
+Insects,51,AINS
+International comparisons,1153,CINT
+Maternal health,57,AMAT
+Medicines,1154,CMED
+Methodology,1155,CMET
+Micronutrients,61,AMIC
+Migration,1156,CMIG
+Mixed methods,1157,CMIX
+Mobile technologies,1158,CMOB
+Modelling,109,DMO
+Natural disasters,1159,CNAT
+Neonatal health,1160,CNEO
+Occupational health,64,AOCC
+Older people's health,1161,COLD
+Organisational research,65,AORG
+Outbreaks,1162,COUT
+Parasites,67,APAR
+Perinatal health,68,APER
+Pharmacokinetics,1163,CPHA
+Pharmacovigilance,70,APHV
+Physical activity,1164,CPHY
+Primary care,71,APRI
+Private sector,1165,CPRI
+Protozoa,1166,CPRO
+Public health,72,APUA
+Public health history,73,APUB
+Public understanding,1167,CPUB
+Qualitative methods,1168,CQUA
+Quality improvement,74,AQUA
+Randomised controlled trials,1169,CRAN
+Rehabilitation,1170,CREH
+Reproductive health,1171,CREP
+Research : policy relationship,75,ARES
+Risk,76,ARIS
+Sanitation,77,ASAN
+Schools,1172,CSCH
+Science policy,78,ASCI
+Sexual and reproductive health,,
+Sexual health,79,ASEH
+Smoking,1173,CSMO
+Social and structural determinants of health,81,ASOC
+Spatial analysis,1174,CSPA
+Statistical methods,82,ASTA
+Substance abuse,83,ASUB
+Substance use,1175,CSUB
+Surveillance,84,ASUR
+Systematic reviews,85,ASYS
+T-cell immunology,86,ATCE
+Tobacco control,87,ATOB
+Trade,1176,CTRA
+Transport,1177,CANS
+Trypanosomes,89,ATRY
+Vaccines,91,AVAC
+Vector control,1178,CVEC
+Violence,1179,CVIO
+Viruses,92,AVIR
+Water,93,AWAT

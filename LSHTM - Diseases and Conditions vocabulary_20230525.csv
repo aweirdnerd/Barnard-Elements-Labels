@@ -1,0 +1,56 @@
+﻿Label Value,Code,Description
+Addiction,749,NULL
+African trypanosomiasis,1180,EAFR
+Allergy,1181,EALL
+Asthma,1182,EAST
+Blindness,1183,EBLI
+Bluetongue virus,3,ABLU
+Cancer,4,ACAN
+Cardiovascular disease,5,ACAR
+Cervical cancer,1184,ECER
+Chagas Disease,1185,ECHA
+Chronic disease,7,ACHR
+Chronic Fatigue Syndrome,1186,ECHR
+CJD,8,ACJD
+Dengue,1187,EDEN
+Diabetes,1188,EDIA
+Diarrhoeal diseases,19,ADID
+Disability,302,DISA
+Emerging Infectious Disease,1189,EEME
+Eye diseases,24,AEYE
+Hepatitis,1190,EHEP
+Herpesviruses,41,AHEV
+HIV/AIDS,42,AHIV
+Hospital acquired infection,1191,EHOS
+Human papillomavirus (HPV),1192,EHUM
+Infectious disease,47,AIND
+Influenza,1193,EINF
+Injuries,49,AINJ
+Kidney disease,1194,EKID
+Leishmaniasis,52,ALEI
+Leprosy,53,ALEP
+Lymphatic filariasis,1195,ELYM
+Malaria,55,AMAL
+Malnutrition,56,AMAN
+Measles,58,AMEA
+Meliodosis,1196,EMEL
+Meningitis,59,AMEN
+Mental health,60,AMET
+Neglected Tropical Diseases (NTDs),1197,ENEG
+Neurological disease,63,ANEU
+Non-communicable diseases,1198,ENON
+Obesity,1199,EOBE
+Pandemic diseases,66,APAN
+Respiratory disease,1200,ERES
+Schistosomiasis,1201,ESCH
+Sepsis,1202,ESEP
+Sexually transmitted disease,80,ASEX
+Sexually transmitted infection,1203,ESEX
+Skin disease,1204,ESKI
+Stroke,1205,ESTR
+Syphilis,833,NULL
+Trachoma,88,ATRA
+Tropical diseases,1206,ETRO
+Tuberculosis,90,ATUB
+Vector borne disease,1207,EVEC
+Zoonotic disease,1208,EZOO
