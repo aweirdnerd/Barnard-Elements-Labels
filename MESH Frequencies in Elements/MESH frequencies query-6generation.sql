@@ -28,7 +28,7 @@ SELECT -- TOP (1000) pl.[Publication ID]
   where -- u.ID = 1877 and 
   prl.[Scheme ID] = 2
   
-  and lv.[Vocabulary ID] like 'C%'
+  --and lv.[Vocabulary ID] like 'C%'
 
   group by prl.Label ,
   lv.[Vocabulary ID],
