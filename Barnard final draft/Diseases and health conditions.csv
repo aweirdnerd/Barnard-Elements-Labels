@@ -1,12 +1,12 @@
 Label Value,Code,Description
-Addiction,,Barnard Classification: 
+Addiction,,Barnard Classification:
 Adults with disabilities,"SOZ, UEFW","Barnard Classification: SOZ, UEFW"
 African trypanosomiasis,LO,Barnard Classification: LO
 Alcohol addiction,GFD,Barnard Classification: GFD
 Allergy,HO,Barnard Classification: HO
 Anaemia,PYI,Barnard Classification: PYI
 Animal trypanosomiasis,LNC-LNU,Barnard Classification: LNC-LNU
-Anthrax ,JL,Barnard Classification: JL
+Anthrax,JL,Barnard Classification: JL
 Anxiety disorders,UJL,Barnard Classification: UJL
 Arthritis,"HN, JGT, UF.PR","Barnard Classification: HN, JGT, UF.PR"
 Ascariasis,MQ,Barnard Classification: MQ
@@ -18,10 +18,10 @@ Bartonella,JVB,Barnard Classification: JVB
 Blindness,UKC,Barnard Classification: UKC
 Blood disorders,PYF,Barnard Classification: PYF
 Bluetongue virus,KWB,Barnard Classification: KWB
-Brucellosis ,JP,Barnard Classification: JP
+Brucellosis,JP,Barnard Classification: JP
 Buruli ulcer,JC,Barnard Classification: JC
 Cancer,PM,Barnard Classification: PM
-Cardiovascular disease,UH-UHZ,Barnard Classification: UH-UHZ
+Cardiovascular diseases,UH-UHZ,Barnard Classification: UH-UHZ
 Cataracts,UKTC,Barnard Classification: UKTC
 Cerebral palsy,"UEFH, UITD","Barnard Classification: UEFH, UITD"
 Cestodes,MI,Barnard Classification: MI
@@ -35,27 +35,27 @@ Coronaviruses,KF,Barnard Classification: KF
 COVID-19,KFD,Barnard Classification: KFD
 Creutzfeldt-Jakob disease (CJD),UIP.PJ,Barnard Classification: UIP.PJ
 Cystic fibrosis,UO.PH,Barnard Classification: UO.PH
-"Dementia, incl. Alzheimer's ",UJW,Barnard Classification: UJW
+"Dementia, incl. Alzheimer's",UJW,Barnard Classification: UJW
 Dengue,KPD,Barnard Classification: KPD
 Dermatitis,URH,Barnard Classification: URH
 Diabetes,UQI,Barnard Classification: UQI
 Diarrhoeal diseases,UPTD,Barnard Classification: UPTD
-Disability,,Barnard Classification: 
+Disability,,Barnard Classification:
 Drug addiction,GF,Barnard Classification: GF
 Dysentery,JT,Barnard Classification: JT
-E coli ,JRC,Barnard Classification: JRC
+E coli,JRC,Barnard Classification: JRC
 Eating disorders,UJLA,Barnard Classification: UJLA
 Ebola virus,KE,Barnard Classification: KE
 Eczema,URHE,Barnard Classification: URHE
-Emerging infectious diseases,,Barnard Classification: 
-Eye health,UK-UKZ ,Barnard Classification: UK-UKZ 
+Emerging infectious diseases,,Barnard Classification:
+Eye health,UK-UKZ,Barnard Classification: UK-UKZ
 Fever,HX,Barnard Classification: HX
 Glaucoma,UKD,Barnard Classification: UKD
-Gonorrhoea ,JI,Barnard Classification: JI
-Hantavirus disease ,KQ,Barnard Classification: KQ
+Gonorrhoea,JI,Barnard Classification: JI
+Hantavirus disease,KQ,Barnard Classification: KQ
 Hearing impairment,ULC,Barnard Classification: ULC
 Heart disease,UHO-UHR,Barnard Classification: UHO-UHR
-Hepatitis ,"KO, KPH, KS, KSA","Barnard Classification: KO, KPH, KS, KSA"
+Hepatitis,"KO, KPH, KS, KSA","Barnard Classification: KO, KPH, KS, KSA"
 Herpesviruses,KJ-KJZ,Barnard Classification: KJ-KJZ
 HIV/AIDS,KM,Barnard Classification: KM
 Hookworm disease,MR,Barnard Classification: MR
@@ -75,8 +75,8 @@ Leprosy,JD-JDP,Barnard Classification: JD-JDP
 Leptospirosis,JZ,Barnard Classification: JZ
 Leukaemias,PYX,Barnard Classification: PYX
 Long-term fatigue,UJK,Barnard Classification: UJK
-Lung disease,UO,Barnard Classification: UO
-Lyme disease ,JYG,Barnard Classification: JYG
+Lung diseases,UO,Barnard Classification: UO
+Lyme disease,JYG,Barnard Classification: JYG
 Lymphatic filariasis,MS,Barnard Classification: MS
 Malaria,LF-LFZ,Barnard Classification: LF-LFZ
 Malnutrition,BEXU,Barnard Classification: BEXU
@@ -89,40 +89,40 @@ MERS,KFC,Barnard Classification: KFC
 Mood disorders,UJM,Barnard Classification: UJM
 Neglected Tropical Diseases (NTDs),"UB, HW","Barnard Classification: UB, HW"
 Nematodes,MN,Barnard Classification: MN
-Neurological disease,UIE,Barnard Classification: UIE
+Neurological diseases,UIE,Barnard Classification: UIE
 Nicotine addiction,GFW,Barnard Classification: GFW
-Non-communicable diseases,,Barnard Classification: 
+Non-communicable diseases,,Barnard Classification:
 Obesity,GY,Barnard Classification: GY
 Onchocerciasis,MU,Barnard Classification: MU
-Physical disabilities ,UEDY-UEFW,Barnard Classification: UEDY-UEFW
+Physical disabilities,UEDY-UEFW,Barnard Classification: UEDY-UEFW
 Plague,JN,Barnard Classification: JN
 Pneumonia,JH,Barnard Classification: JH
-Rabies ,KK,Barnard Classification: KK
-Respiratory disease,UO-UOY,Barnard Classification: UO-UOY
+Rabies,KK,Barnard Classification: KK
+Respiratory diseases,UO-UOY,Barnard Classification: UO-UOY
 Rift Valley fever,KH,Barnard Classification: KH
-Ringworm ,IT,Barnard Classification: IT
+Ringworm,IT,Barnard Classification: IT
 Rubella,KNV,Barnard Classification: KNV
-Salmonella ,JS,Barnard Classification: JS
+Salmonella,JS,Barnard Classification: JS
 SARS,KFB,Barnard Classification: KFB
 Scabies,NGI,Barnard Classification: NGI
 Schistosomiasis,MH,Barnard Classification: MH
 Sepsis,"JGCB, PYG","Barnard Classification: JGCB, PYG"
-Sexually transmitted disease,UTU,Barnard Classification: UTU
+Sexually transmitted diseases,UTU,Barnard Classification: UTU
 Sexually transmitted infection,UTU,Barnard Classification: UTU
 Sickle-cell disease,PYHS,Barnard Classification: PYHS
-Skin disease,UR-URY,Barnard Classification: UR-URY
+Skin diseases,UR-URY,Barnard Classification: UR-URY
 Soil transmitted helminths,"BLH, M-MZ","Barnard Classification: BLH, M-MZ"
 Stroke,"UITH, UHS.P","Barnard Classification: UITH, UHS.P"
-Substance abuse,,Barnard Classification: 
+Substance abuse,,Barnard Classification:
 Syphilis,JX,Barnard Classification: JX
 Tetanus,JM,Barnard Classification: JM
-Toxoplasmosis ,LE,Barnard Classification: LE
+Toxoplasmosis,LE,Barnard Classification: LE
 Trachoma,JVX,Barnard Classification: JVX
-Trichomoniasis ,LW,Barnard Classification: LW
-Tropical diseases,"UB, HW ","Barnard Classification: UB, HW "
+Trichomoniasis,LW,Barnard Classification: LW
+Tropical diseases,"UB, HW","Barnard Classification: UB, HW"
 Tropical skin diseases,URJ,Barnard Classification: URJ
 Tuberculosis,JC-JCK,Barnard Classification: JC-JCK
-Vector borne disease,HW,Barnard Classification: HW
+Vector borne diseases,HW,Barnard Classification: HW
 Whipworm infection,MO,Barnard Classification: MO
 Wounds and injuries,VS-VTL,Barnard Classification: VS-VTL
 Yaws,JXK,Barnard Classification: JXK
